@@ -1,0 +1,11 @@
+
+num_samples_per_class: 2000
+ode_classes:
+  "Separable ODE": "Separable"
+  "Linear First-Order ODE": "Linear"
+  "Exact ODE": "Exact"
+  "Homogeneous ODE": "Homogeneous"
+  "Bernoulli ODE": "Bernoulli"
+
+
+output_file: "ode_training_data.json"
